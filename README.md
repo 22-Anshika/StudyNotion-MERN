@@ -1,4 +1,4 @@
-# StudyNotion Ed-Tech Platform (link - https://studynotion-frontend.vercel.app/)
+# StudyNotion Ed-Tech Platform
 
 StudyNotion is a versatile and intuitive ed-tech platform that enables users to create, consume, and rate educational content. It provides a seamless and interactive learning experience for students while offering a platform for instructors to showcase their expertise and connect with learners worldwide. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
@@ -49,7 +49,7 @@ The front end of StudyNotion is built with ReactJS, offering a dynamic and respo
 Front-end tools and technologies include ReactJS, CSS, Tailwind CSS, Redux for state management, and VSCode for development.
 Additionally, we use some npm packages to add extra functionality to the front end.
 
-[View Live Demo][(https://studynotion-frontend.vercel.app/)]
+[View Live Demo - https://studynotion-frontend.vercel.app/]
 ![studynotion1](https://github.com/yashsarode45/StudyNotion-Mega-Project/assets/65209607/ad992ea3-e257-404a-9d40-83183f7edfd3)
 ![studynotion2](https://github.com/yashsarode45/StudyNotion-Mega-Project/assets/65209607/87089177-e065-4b8a-8515-3af8e3aed4db)
 
